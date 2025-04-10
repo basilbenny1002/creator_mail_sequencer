@@ -10,9 +10,7 @@ today = datetime.date.today()
 
 
 FILE_NAME = "3clovermedia leads all creator leads.csv"
-# s = smtplib.SMTP("smtp.gmail.com", 587)
-# s.starttls()
-# s.login("Ank@threeclovermedia.com", "iojw uppy ztsn sjdv")
+
 
 df = pandas.read_csv(FILE_NAME)
 usernames = df['Username'].tolist()
