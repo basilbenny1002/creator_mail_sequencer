@@ -9,7 +9,7 @@ To use this script, **please contact us first** for permission and instructions.
 
 **Basil Benny**  
 📧 basilbenny1002@gmail.com  
-**Ank**
+**Anirudhwa Ankon**
 📧 aniruank@gmail.com
 
 
